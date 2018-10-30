@@ -1,4 +1,4 @@
-# dicte-macos
+# dicte-macos-py
 Python-Based French Dictation for kids. Built on Mac OSX High Sierra using python 2.x
 
 Use: ./dicte.py 
